@@ -1,0 +1,19 @@
+ Server:
+192.168.0.5 winServer  administrator/solantec@123
+192.168.0.6 LinuxServer root/rootroot
+
+hadoop/hbase
+192.168.0.31 root/rootroot
+192.168.0.32
+192.168.0.33
+
+Oracle RAC
+192.168.0.85
+192.168.0.87
+
+
+VPN:
+登陆服务器：wyspgbj.f3322.net
+VPN类型：PPTP
+加密： 可选加密
+user/password: solantec/solantec@123
